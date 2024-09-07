@@ -44,7 +44,7 @@ class Calculate{
             System.out.println("Grade :" + grade);
         }
     }
-class Main{
+class StudentGrade{
     public static void main(String[] args){
         Calculate c=new Calculate();
         c.calculate();
